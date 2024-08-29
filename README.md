@@ -23,3 +23,5 @@ Syllabus (By Karpathy, Not me Lol)
     Chapter 16 Deployment (API, web app)
     Chapter 17 Multimodal (VQVAE, diffusion transformer)
 
+
+For each and every chapters will we have set of theories, information and code files (Not at all limited to one solution or code!) and may contain sparse and scattered information.
