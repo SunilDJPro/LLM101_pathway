@@ -24,4 +24,4 @@ Syllabus (By Karpathy, Not me Lol)
     Chapter 17 Multimodal (VQVAE, diffusion transformer)
 
 
-For each and every chapters will we have set of theories, information and code files (Not at all limited to one solution or code!) and may contain sparse and scattered information.
+For each and every chapters will we have set of theories, information and code files (Not at all limited to one solution or code!) and may contain sparse and scattered information. After all the chapters are done with seperate knowledge folders, we will have a combined project section fuses all the concepts, build and train an LLM from ground up.
